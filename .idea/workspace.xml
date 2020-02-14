@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1102c4bb-5e25-4eaf-914b-bbc4e2e29299" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XNq00AclNfkFA2K8PZ4qhR3nwW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JAVA/OnlineTest" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\College\Assignments Coventry\ujjwal\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StudentRegistration">
+    <configuration name="AdminPannel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdminPannel" />
+      <module name="ujjwal" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Loginpage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loginpage" />
+      <module name="ujjwal" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentPage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StudentPage" />
+      <module name="ujjwal" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentRegistration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StudentRegistration" />
+      <module name="ujjwal" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Subject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Subject" />
+      <module name="ujjwal" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StudentRegistration" />
+        <item itemvalue="Application.Loginpage" />
+        <item itemvalue="Application.StudentPage" />
+        <item itemvalue="Application.AdminPannel" />
+        <item itemvalue="Application.Subject" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1102c4bb-5e25-4eaf-914b-bbc4e2e29299" name="Default Changelist" comment="" />
+      <created>1580896672873</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580896672873</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="686" y="212" key="FileChooserDialogImpl" timestamp="1581243428626">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="686" y="212" key="FileChooserDialogImpl/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581243428626" />
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580919903688" />
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1581402766435">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581244421131" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581243028358" />
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1581402766435" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1581402766435">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581244421131" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581243028358" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1581402766435" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1581402766435">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581244421131" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581243028358" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1581402766435" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1581402766435">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581244421131" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581243028358" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1581402766435" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1580919907112">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580919907112" />
+    <state x="525" y="287" key="com.intellij.ide.util.TipDialog" timestamp="1581335715192">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1581243420785" />
+    <state x="525" y="273" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581242081167" />
+    <state x="525" y="287" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1581335715192" />
+    <state x="-1920" y="0" width="1550" height="715" key="dock-window-1" timestamp="1580975920123">
+      <screen x="-1920" y="0" width="1536" height="832" />
+    </state>
+    <state x="-1920" y="0" width="1550" height="715" key="dock-window-1/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1580975920123" />
+    <state x="0" y="0" width="1243" height="570" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1580916157953" />
+    <state x="-1920" y="0" width="1550" height="830" key="dock-window-2" timestamp="1580977155483">
+      <screen x="-1920" y="0" width="1536" height="832" />
+    </state>
+    <state x="-1920" y="0" width="1550" height="830" key="dock-window-2/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1580977155483" />
+  </component>
+</project>
